@@ -13,6 +13,6 @@ public class Main {
     
     public static void main(String[] args) {
         int n =3;
-        towerOfHanoi(n, "S", "H", "D");
+        towerOfHanoi(n, "S", "H", "D");               // time complexity=2^n
     }
 }
